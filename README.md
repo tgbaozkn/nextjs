@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+I am using trivia quiz game api and I made sample question list with them.
